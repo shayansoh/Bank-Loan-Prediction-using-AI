@@ -4,7 +4,7 @@
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-The purpose of this project is design a machine learning algorithm using Artificial Neural Network that would predict the likelyhood of a customer getting approved for a bank loan.
+The purpose of this project is design a machine learning algorithm using Artificial Neural Network that would predict the likelihood of a customer getting approved for a bank loan.
 
 
 ### Methods Used
