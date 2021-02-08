@@ -54,7 +54,7 @@ As it can be seen, the data consists of various important features in making the
 ## Data Preparation
 1. To start off, we will first convert our binary target column 'Personal Loan' to categorical. This will represent two categories: Approved and Not Approved.
 2. Next, we will randomly split our dataset into 2 parts: 90% for training and 10% for testing. Moreover, the training data is also later on split into 2 parts where 20% of it is used for cross-validation.
-3. Lastly, we wil standardize all our features so that the neural network can process them properly and assign the correct weigtage.
+3. Lastly, we wil standardize all our features so that the neural network can process them properly and assign the correct weightage.
 
 ## Building the Multi-Layer Neural Network
 1. At this point, we will start by assigning all the features as input. Next we add some hidden layers to the model and then finish it off with the final target variable.
